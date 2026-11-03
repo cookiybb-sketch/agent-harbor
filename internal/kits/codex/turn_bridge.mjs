@@ -211,7 +211,7 @@ function waitTurnCompleted() {
 
 async function bootstrap() {
   await rpc("initialize", {
-    clientInfo: { name: "agent_harbor", title: "Agent Harbor", version: "0.1.0" },
+    clientInfo: { name: "agent_harbor", title: "Agent Harbor", version: "0.1.4" },
   });
   notify("initialized");
   const started = await rpc("thread/start", {

@@ -142,4 +142,4 @@ $ grep -n harbor-live-i2 demos/workspace/summary.txt
 | 桌面 GUI Docker 切换 | **通过** | `demos/evidence/p2-docker-gui-2026-10-30.txt` + `screenshots/17-desktop-docker-health.png`（UIPrefs=`docker`，无 `HARBOR_RUNTIME`） |
 | 真无 Desktop 另机 GUI | **未做 · 不声称** | 本机 Colima §B 已证「Desktop 已装未用」；不冒充陌生机 |
 
-获取产物：预发布 [v0.0.0-ci.8efc0d9](https://github.com/liyufei916/agent-harbor/releases/tag/v0.0.0-ci.8efc0d9)；正式 [v0.1.0](https://github.com/liyufei916/agent-harbor/releases/tag/v0.1.0)。首跑表口径见 [stranger-first-run-record.md](../demos/stranger-first-run-record.md)（本机已测；**独立陌生机 / 他人可用：不声称**）。操作说明：[FIRST-RUN.md](../demos/FIRST-RUN.md)。
+获取产物：正式 [v0.1.4](https://github.com/liyufei916/agent-harbor/releases/tag/v0.1.4)（及历史 [v0.1.0](https://github.com/liyufei916/agent-harbor/releases/tag/v0.1.0)）；亦有 `v0.0.0-ci.*` 预发布。首跑表口径见 [stranger-first-run-record.md](../demos/stranger-first-run-record.md)（本机已测；**独立陌生机 / 他人可用：不声称**）。操作说明：[FIRST-RUN.md](../demos/FIRST-RUN.md)。

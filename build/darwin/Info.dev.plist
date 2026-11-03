@@ -10,11 +10,11 @@
         <key>CFBundleIdentifier</key>
             <string>com.wintercom.agent-harbor</string>
         <key>CFBundleVersion</key>
-            <string>0.1.0</string>
+            <string>0.1.4</string>
         <key>CFBundleGetInfoString</key>
             <string>密钥留在本机 · Agent 隔离运行</string>
         <key>CFBundleShortVersionString</key>
-            <string>0.1.0</string>
+            <string>0.1.4</string>
         <key>CFBundleIconFile</key>
             <string>icons</string>
         <key>CFBundleIconName</key>

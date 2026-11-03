@@ -64,7 +64,10 @@
 | 2026-10-31t | **计量/单价 UX**：参考单价一模型一套（已配的不进下拉）；币种改按钮（修桌面 WebView select）；分模型时序悬停明细；无 token 不出该模型时序；发 **v0.1.3**。 |
 | 2026-11-01 | **评审闭环**：`gofmt` 修 `events.go` Result 对齐；计量 UX 抽 `records-price.js` + 单测（隐藏已配模型/币种锁/悬停 tip）；`release.yml` 增 gofmt + `go test -race` + `npm test` 发版门禁；CI `go-unit` needs `format`。视频顶栏「…UNIMPLEMENTED」= api fail-closed 占位码拼文案（`frontend/src/api.js`），非字面隔离功能名。 |
 | 2026-11-01c | **覆盖率本机旁证**：Actions macOS `Go checks` 持续秒取消（无 runner）；ubuntu format/frontend 已绿（`41218795223`）。本机 `coverage-summary` 63.2% @ `11e58d3`，见 `demos/evidence/coverage-local-11e58d3.txt`。 |
+| 2026-11-02 | **路演稿**：`demos/ROADSHOW.md`（研发四维映射；AI 工程效率金句与 Demo 镜头；边界/追问速答）。 |
+| 2026-11-03 | **完整功能录屏步骤**：`demos/FULL-FEATURE-DEMO-RECORDING.md`（A–K 分镜、精简轨、检查表）。 |
 | 2026-11-01b | **CI 分流**：format/frontend 改 ubuntu；Go race/覆盖率/打包仍 macOS（Darwin API）。ubuntu 全量 `go test` 会因 `NewMacOS`/`ProbeInstallation` 编不过，不可替代。 |
+| 2026-11-03b | **发 v0.1.4**：路演稿 + 完整功能录屏步骤入仓；`build/config.yml` / Info.plist / frontend 版本对齐 0.1.4；含 main 上模型 Origin/IME/覆盖率门禁等已合入改动。 |
 
 ## eng-complete（代码已接线）
 
